@@ -7,13 +7,14 @@
 }
 
 .contact tr {
-  height: 5rem;
+  height: 7rem;
   margin-right: 10;
 }
 
 th{
   padding-right: 10px;
   height: 7rem;
+  width: 150px:auto;
   text-align:right;
 
 }
@@ -41,7 +42,7 @@ td{
 .button{
   background-color: #008B8B;
   color: #ffffff;
-  /* size: 7rem; */
+  font-size: 3rem;
   padding: 10px;
   text-align: center;
 
