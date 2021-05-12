@@ -1,0 +1,51 @@
+
+
+.contact{
+  /* height: 200px; */
+  /* padding: 20px; */
+  /* height: 7rem; */
+}
+
+.contact tr {
+  height: 5rem;
+  margin-right: 10;
+}
+
+th{
+  padding-right: 10px;
+  height: 7rem;
+  text-align:right;
+
+}
+
+td{
+  /* width: 480px; */
+
+}
+
+ .name, .email, .comment {
+  width: 480px
+}
+
+
+
+.submit th {
+  height: 2rem;
+  text-align: center;
+}
+
+.ne,.me,.sex,.co{
+  margin-right: 10px;
+}
+
+.button{
+  background-color: #008B8B;
+  color: #ffffff;
+  /* size: 7rem; */
+  padding: 10px;
+  text-align: center;
+
+  }
+  .button:hover{
+    opacity: 0.6;
+  }
